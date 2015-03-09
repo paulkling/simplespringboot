@@ -12,7 +12,7 @@ mainClassName = "com.github.srekapalli.sample.SampleApplication"
 buildscript {
     ext {
         springBootVersion = '1.2.1.RELEASE'
-    }    
+    }
     repositories {
         mavenCentral()
     }
